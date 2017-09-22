@@ -9,27 +9,27 @@
 
 > Reference: https://www.programsinformationpeople.org/runestone/static/publicpy3/Classes/ClassesHoldingData.html
 
-- [ ] Discuss in pairs (5 mins): *What is interesting in the response?*
-- [ ] Create a file `flickr_response.py`
-- [ ] Create a `class Photo`
+- [x] Discuss in pairs (5 mins): *What is interesting in the response?*
+- [x] Create a file `flickr_response.py`
+- [x] Create a `class Photo`
     - Through its constructor, save the values of interesting properties from the Flickr API response into its object variables.
     - This step is called *initializing* the object with values.
-- [ ] Write `__str__` method for this class
+- [x] Write `__str__` method for this class
     - What would be an interesting string?
-- [ ] Write `__repr__` method
+- [x] Write `__repr__` method
     - What technical details are interesting when you debug the code?
-- [ ] Write `__contains__` method
+- [x] Write `__contains__` method
     - What are a few things that are interesting to check for using the `in` operator?
     - Think about the condition `if "______" in photo: do something`
 - [ ] Commit and push to your forked repository
 
 ---
 ### Project 2 — Manage your project through Github (~20 mins)
-- [ ] Fork: https://github.com/SI507-F17/507-Project2-F17
-- [ ] Look at the code file and discuss in pairs what you understood (5 mins)
-- [ ] Create Milestones and set deadlines for yourself for each milestone
-- [ ] Create Issues (they are like broad ToDos) and tag it against each Milestones
-    - [ ] Create a checklist in the description of each Issue, just like how you would divide a big task into smaller, manageable tasks.
+- [x] Fork: https://github.com/SI507-F17/507-Project2-F17
+- [x] Look at the code file and discuss in pairs what you understood (5 mins)
+- [x] Create Milestones and set deadlines for yourself for each milestone
+- [x] Create Issues (they are like broad ToDos) and tag it against each Milestones
+    - [x] Create a checklist in the description of each Issue, just like how you would divide a big task into smaller, manageable tasks.
 - [ ] Submit the link of your forked repository on your section's discussion thread in Canvas
 - [ ] Work on creating new Issues and checklists in issue descriptions for Project 2 at home. This will help you keep track of your progress and ensure that you don't miss out anything in your submission.
 
